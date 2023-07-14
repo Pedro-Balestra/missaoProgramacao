@@ -14,7 +14,7 @@
 
 ## 🎓 Sobre o projeto
 
-Projeto foi desenvolvido na Missão Programação, evento feito pelo Rodrigo Mori da DevClub. Neste evento, fomos instruídos a criar a tela incial de login do instragram, utilizando HTML, CSS e JS.
+Projeto foi desenvolvido na Missão Programação, evento feito pelo Rodolfo Mori da DevClub. Neste evento, fomos instruídos a criar a tela incial de login do instragram, utilizando HTML, CSS e JS.
 ## 📜 Tecnologias 
 
 A seguinte ferramenta foi utilizada na construção do projeto:
